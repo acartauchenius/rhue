@@ -2,3 +2,5 @@
 
 export(convert_xy)
 export(create_user)
+export(dump_lights_data)
+export(get_light_data)
